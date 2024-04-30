@@ -1,4 +1,4 @@
-# Phase 1
+#  Appointment Scheduler
 
 # Written Report
 - 1. Provide an overview of the organization (real or imaginary) for which you want to develop the application. (e.g., a University
