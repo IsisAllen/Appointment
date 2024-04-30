@@ -64,7 +64,15 @@ seasons like fall or spring class registration, the student's primary advisors b
 busy. So, having a selection of advisors in their college and times that work would be a
 helpful tool.
 
-- 4.  ![image](https://github.com/IsisAllen/Appointment/assets/124085275/65d5575a-8b31-4247-8448-0e7c141eac31)
+- 4. 
+
+1. Divide your group members into two subgroups: (1) analysts and (2) business representatives
+   
+2. Watch the practice videos in Table 1 (these videos are your learning materials). Similar to the videos
+you watched, record a video in which analysts talk with business representatives and
+extract/translate business requirements to class diagrams
+
+ ![image](https://github.com/IsisAllen/Appointment/assets/124085275/65d5575a-8b31-4247-8448-0e7c141eac31)
 
 # Video Report
 ![image](https://github.com/IsisAllen/Appointment/assets/124085275/e8f07120-322f-4478-a7dc-a5809769c951)
