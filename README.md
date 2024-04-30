@@ -75,7 +75,7 @@ extract/translate business requirements to class diagrams
  ![image](https://github.com/IsisAllen/Appointment/assets/124085275/65d5575a-8b31-4247-8448-0e7c141eac31)
 
 # Video Report
-![image](https://github.com/IsisAllen/Appointment/assets/124085275/e8f07120-322f-4478-a7dc-a5809769c951)
+On D2l
 
 
 
