@@ -1,5 +1,9 @@
 ﻿namespace Appointment;
 
+
+// Saffari, K.(2024). ClassProject003.GitHub.https://github.com/saffarizadeh/ClassProject003/blob/development/Customer.cs
+
+
 public class User
 {
     private static int autoIncrement;
@@ -12,9 +16,9 @@ public class User
 
     public User()
     {
-        autoIncrement++;
-        ID = autoIncrement; 
+        autoIncrement++;  // Increment the value of the static autoIncrement variable by 1.
+        ID = autoIncrement;  // Set the ID property of the User object to the current value of autoIncrement.
+}
         
     }
 
-}
