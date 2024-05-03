@@ -20,6 +20,4 @@ public class UserAppt
         // Assigning the provided Appt object to the a property
         this.a = a;
     }
-
-
 }
