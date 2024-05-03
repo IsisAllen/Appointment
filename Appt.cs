@@ -1,4 +1,8 @@
-﻿namespace Appointment;
+﻿/*
+Saffari, K.(2024). ClassProject003.GitHub.https://github.com/saffarizadeh/ClassProject003/blob/development/Appointment.cs
+
+*/
+namespace Appointment;
 
 public class Appt
 {

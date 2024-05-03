@@ -1,5 +1,7 @@
 ﻿namespace Appointment;
 
+// // Saffari, K.(2024). ClassProject003.GitHub.https://github.com/saffarizadeh/ClassProject003/blob/development/CustomerAppointment.cs
+
 public class UserAppt
 {
     // Definition of a public property named u, representing a User object.
@@ -18,6 +20,4 @@ public class UserAppt
         // Assigning the provided Appt object to the a property
         this.a = a;
     }
-
-
 }
